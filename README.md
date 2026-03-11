@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YRefaey
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning html and css
+
 
 <!---
 YRefaey/YRefaey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
